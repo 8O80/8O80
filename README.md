@@ -1,5 +1,5 @@
 # Hi, I'm Rashed ! 👋
-A skilled developer proficient in JavaScript html and css . My primary focus is on creating responsive websites and developing Discord bots
+A skilled proficient developer. My primary focus is on creating responsive websites and developing Discord bots
 
 
 
