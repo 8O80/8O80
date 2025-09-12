@@ -51,7 +51,4 @@ A skilled proficient developer. My primary focus is on creating responsive websi
   <a href="mailto:rashedr1v@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
 
-## Discord Status
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/734851759515631817.png">
-</p>
+
