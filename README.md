@@ -3,12 +3,6 @@ A skilled proficient developer. My primary focus is on creating responsive websi
 
 
 
- 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=808O&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=808O&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=808O&layout=compact&theme=github_dark"/>|
 
 ## Programming Languages
 
